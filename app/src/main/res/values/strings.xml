@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">StaticFragments</string>
+    <string name="about">
+        <![CDATA[
+            <h1>Static Fragment</h1>
+            <h2>Ejercicio de clase</h2>
+            <p>Este ejercicio muestra un pequeño ejemplo de cómo crear <u>un Fragment</u></p>
+            <ol>
+                <li>Uno</li>
+                <li>Dos</li>
+                <li>Tres</li>
+                <li>…</li>
+            </ol>
+        ]]>
+</string>
 </resources>
